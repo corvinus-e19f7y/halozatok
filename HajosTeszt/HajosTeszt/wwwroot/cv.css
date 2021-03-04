@@ -1,0 +1,27 @@
+﻿div {
+    margin: 10px;
+    padding: 20px;
+    border: 0.5px;
+    border-style: dotted solid double dashed;
+    border-radius: 25px;
+}
+
+
+h1,
+h2 {
+    text-align: center;
+}
+body{
+    background-color: lightgrey;
+}
+#bemutatkozas{
+    background-color:ghostwhite;
+}
+span{
+    font-size: 25px;
+}
+.kep{
+    border-style: groove;
+    border-radius: 30px;
+    padding: 10px;
+}
