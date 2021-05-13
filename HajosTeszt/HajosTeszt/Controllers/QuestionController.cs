@@ -13,7 +13,7 @@ namespace HajosTeszt.Controllers
     public class QuestionController : ControllerBase
     {
         [HttpGet]
-        [Route("questions/[count]")]
+        [Route("questions/all")]
         public int M1()
         {
             HajostesztContext context = new HajostesztContext();
